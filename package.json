@@ -15,7 +15,7 @@
   "engines": {
     "node": "^16.3.0",
     "npm": "^7.16.0"
-},
+  },
   "dependencies": {
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
@@ -30,6 +30,7 @@
     "moment": "2.18.1",
     "node-sass": "^6.0.0",
     "normalize.css": "7.0.0",
+    "numeral": "2.0.6",
     "react": "15.6.1",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.3.0",
@@ -45,7 +46,7 @@
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "enzyme": "2.9.1",
     "enzyme-to-json": "1.5.1",
     "jest": "20.0.4",

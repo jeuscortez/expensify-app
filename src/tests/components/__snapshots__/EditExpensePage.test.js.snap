@@ -37,5 +37,9 @@ exports[`should render EditExpensePage 1`] = `
       Remove Expense
     </button>
   </div>
+  <Connect(ConfModal)
+    historyPush={[Function]}
+    id="3"
+  />
 </div>
 `;
